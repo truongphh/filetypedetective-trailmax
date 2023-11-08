@@ -1,0 +1,7 @@
+D:\Projects\filetypedetective-trailmax\bin\Debug\FileTypeDetective.dll
+D:\Projects\filetypedetective-trailmax\bin\Debug\FileTypeDetective.pdb
+D:\Projects\filetypedetective-trailmax\bin\Debug\documentation.xml
+D:\Projects\filetypedetective-trailmax\obj\Debug\FileTypeDetective.csproj.AssemblyReference.cache
+D:\Projects\filetypedetective-trailmax\obj\Debug\FileTypeDetective.csproj.CoreCompileInputs.cache
+D:\Projects\filetypedetective-trailmax\obj\Debug\FileTypeDetective.dll
+D:\Projects\filetypedetective-trailmax\obj\Debug\FileTypeDetective.pdb
